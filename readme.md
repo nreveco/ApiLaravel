@@ -1,3 +1,5 @@
+<p align="center">Clonar proyecto he instalar dependencias mediante npm install</p>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
