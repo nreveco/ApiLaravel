@@ -1,5 +1,5 @@
 <p align="center">Clonar proyecto he instalar dependencias mediante npm install</p>
-<p align="center">Con la version actualizada de php 5.6++ y mysql 5.5++ ejecutar aplicacion</p>
+<p align="center">Con la version actualizada de php 7++ y mysql 5.5++ ejecutar aplicacion</p>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
