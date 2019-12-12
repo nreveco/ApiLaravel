@@ -1,5 +1,7 @@
 <p align="center">Clonar proyecto he instalar dependencias mediante npm install o composer install (Preferir este gestor de dependencias)</p>
 <p align="center">Con la version actualizada de php 7++ y mysql 5.5++ ejecutar aplicacion</p>
+<p align="center">Luego ejecutar "php artisan key:generate"</p>
+<p align="center">Luego Cargar .sql en base de datos mysql, configurar archivo .env y probar ejecucion de url configuradas en routes/web/</p>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
